@@ -1,0 +1,9 @@
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Core\bin\Debug\netstandard2.1\BANKEST2.Core.deps.json
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Core\bin\Debug\netstandard2.1\BANKEST2.Core.dll
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Core\bin\Debug\netstandard2.1\BANKEST2.Core.pdb
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Core\obj\Debug\netstandard2.1\BANKEST2.Core.csprojAssemblyReference.cache
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Core\obj\Debug\netstandard2.1\BANKEST2.Core.AssemblyInfoInputs.cache
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Core\obj\Debug\netstandard2.1\BANKEST2.Core.AssemblyInfo.cs
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Core\obj\Debug\netstandard2.1\BANKEST2.Core.dll
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Core\obj\Debug\netstandard2.1\BANKEST2.Core.pdb
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Core\obj\Debug\netstandard2.1\BANKEST2.Core.csproj.CoreCompileInputs.cache

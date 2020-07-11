@@ -1,0 +1,15 @@
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.deps.json
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.runtimeconfig.json
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.runtimeconfig.dev.json
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.dll
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.pdb
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Core.dll
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Core.pdb
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.csproj.CopyComplete
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.dll
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.pdb
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.genruntimeconfig.cache
+C:\Users\Maai Ham\source\repos\BANKEST2\BANKEST2\src\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache

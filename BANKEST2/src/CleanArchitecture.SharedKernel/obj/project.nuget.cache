@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJvtHmii7L5ghl0D5MQurLe1h8OhVIN5YiPIUvMYYLf6RXsbDQFKcLa2drBNmiqDQ2x8ZCzhc663rQZuegmSeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maai Ham\\source\\repos\\BANKEST2\\BANKEST2\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maai Ham\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Maai Ham\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
